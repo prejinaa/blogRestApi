@@ -1,10 +1,10 @@
-package com.example.blogRestApi.Controller;
+package com.example.blogRestApiSystem.Controller;
 
 
-import com.example.blogRestApi.entity.Role;
-import com.example.blogRestApi.entity.User;
-import com.example.blogRestApi.repository.RoleRepository;
-import com.example.blogRestApi.repository.UserRepository;
+import com.example.blogRestApiSystem.entity.Role;
+import com.example.blogRestApiSystem.entity.User;
+import com.example.blogRestApiSystem.repository.RoleRepository;
+import com.example.blogRestApiSystem.repository.UserRepository;
 import com.springboot.blog.payload.LoginDto;
 import com.springboot.blog.payload.SignUpDto;
 

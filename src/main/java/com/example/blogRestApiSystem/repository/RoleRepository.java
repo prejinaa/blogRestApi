@@ -1,7 +1,7 @@
-package com.example.blogRestApi.repository;
+package com.example.blogRestApiSystem.repository;
 
 
-import com.example.blogRestApi.entity.Role;
+import com.example.blogRestApiSystem.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

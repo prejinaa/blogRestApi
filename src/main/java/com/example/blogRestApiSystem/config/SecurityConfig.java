@@ -1,4 +1,4 @@
-package com.example.blogRestApi.config;
+package com.example.blogRestApiSystem.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

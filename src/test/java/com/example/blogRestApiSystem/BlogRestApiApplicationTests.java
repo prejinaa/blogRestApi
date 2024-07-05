@@ -1,4 +1,4 @@
-package com.example.blogRestApi;
+package com.example.blogRestApiSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

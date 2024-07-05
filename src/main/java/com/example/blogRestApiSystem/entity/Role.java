@@ -1,4 +1,4 @@
-package com.example.blogRestApi.entity;
+package com.example.blogRestApiSystem.entity;
 
 import lombok.Getter;
 import lombok.Setter;

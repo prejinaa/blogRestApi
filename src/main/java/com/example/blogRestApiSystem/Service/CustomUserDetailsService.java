@@ -1,7 +1,7 @@
-package com.example.blogRestApi.Service;
+package com.example.blogRestApiSystem.Service;
 
-import com.example.blogRestApi.entity.User;
-import com.example.blogRestApi.repository.UserRepository;
+import com.example.blogRestApiSystem.entity.User;
+import com.example.blogRestApiSystem.repository.UserRepository;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
